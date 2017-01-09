@@ -5,3 +5,4 @@ One more chage.
 Just created Feature-A branch!
 commet added for fix-B branch
 one more line for conflict merge study on master branch
+change on fix-B again
